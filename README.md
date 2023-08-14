@@ -1,3 +1,10 @@
 # AbstractPaymentService
 
-This is the design of a Payment System that follows microservice architecture and is scalable
+This is the design of a Payment System that follows microservice architecture and is scalable. Though it is scalable limit will be introduced.
+
+ The system's initial stage is designed to do 20000 payments per payday only in the selected counties
+
+The Payment System has three main components  connected by REST-based architecture.
+
+
+![PaymentSystemdesign1](https://github.com/praveenraja9333/AbstractPaymentService/assets/61078880/fa2bec72-0a82-4361-b595-d610e10cb208)
