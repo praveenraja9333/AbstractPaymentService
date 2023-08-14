@@ -1,0 +1,15 @@
+{
+  "checkoutid": "c8be15de-4488-4490-9dc6-fab3f91435c6",
+  "buyerinfo":"Praveen",
+  "currencycode":"INR",
+  "paymentOrderList":[
+    {
+      "sellername":"abc",
+      "amount":"3241.83"
+    },
+    {
+      "sellername":"abc1",
+      "amount":"4441.83"
+    }
+  ]
+}
