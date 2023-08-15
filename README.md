@@ -7,4 +7,5 @@ This is the design of a Payment System that follows microservice architecture an
 The Payment System has three main components  connected by REST-based architecture.
 
 
-![PaymentSystemdesign1](https://github.com/praveenraja9333/AbstractPaymentService/assets/61078880/fa2bec72-0a82-4361-b595-d610e10cb208)
+
+![PaymentSystemdesign1](https://github.com/praveenraja9333/AbstractPaymentService/assets/61078880/260cfbbc-9c15-4096-a1b0-8aea249ef850)
