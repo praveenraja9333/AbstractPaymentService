@@ -1,10 +1,10 @@
 # AbstractPaymentService
 
-This is the design of a Payment System that follows microservice architecture and is scalable. Though it is scalable limit will be introduced.
+This is the design of a Payment System that follows microservice architecture and is scalable. Though it is scalable, Certain limits will be enforced.
 
  The system's initial stage is designed to do 20000 payments per payday only in the selected counties
 
-The Payment System has three main components  connected by REST-based architecture.
+The Payment System has three main components connected by REST-based architecture.
 
 
 
